@@ -1,6 +1,6 @@
 # Web-Mining-Lab-CSE3024
 
 ### Week1 
-- Basics of Web Mining
+- Using requests module
 ### Week2 
-- Introduction to BeautifulSoup
+- Using BeautifulSoup and requests and module
