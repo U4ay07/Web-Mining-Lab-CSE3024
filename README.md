@@ -8,3 +8,5 @@
 - More examples of using BeautifulSoup and requests module
 ### Week4
 - Building a simple web crawler
+### Week9
+- Implementing Naïve Bayes Classifier
