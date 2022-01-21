@@ -1,0 +1,27 @@
+Word           Frequency      
+------------------------------------------------
+
+Brutus         2              
+Caesar         2              
+Caesar.        1              
+Capitol;       1              
+I              2              
+Julius         1              
+So             1              
+The            1              
+ambitious.     1              
+be             1              
+did            1              
+enact          1              
+hath           1              
+in             1              
+it             1              
+killed         2              
+let            1              
+me.            1              
+noble          1              
+the            1              
+told           1              
+was            2              
+with           1              
+you            1              
